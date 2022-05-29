@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**NoobKeksTV/NoobKeksTV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Uhhh this is my Profile, im creating awesome Stuff using some languages like
 
-Here are some ideas to get you started:
+C#
+C++
+Java
+JavaScript (node.js, vue.js, jquery)
+lua
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+and ofcourse some front-end stuff like
+html, css, visual basic, eeh yes.
+
+
+I mostly do Backend cus i dont like frontend but it doesnt mean i cant do it.
+
+My proudest project is [ScamBusters](https://discordbotlist.com/bots/scambusters) which is a Discord Bot to fight Scammers.
