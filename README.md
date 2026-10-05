@@ -7,6 +7,7 @@
   <img src="https://komarev.com/ghpvc/?username=NoobKeksTV&color=blueviolet&style=flat-square" alt="Profile views" />
   <a href="https://github.com/NoobKeksTV?tab=followers"><img src="https://img.shields.io/github/followers/NoobKeksTV?style=flat-square&color=blue" alt="Followers" /></a>
   <a href="https://egopvp-hosting.com"><img src="https://img.shields.io/badge/EgoPvP-Hosting-orange?style=flat-square" alt="EgoPvP Hosting" /></a>
+  <a href="https://lhprinting.de"><img src="https://img.shields.io/badge/LH-Printing-green?style=flat-square" alt="LH Printing" /></a>
 </p>
 
 ---
@@ -15,7 +16,7 @@
 
 - ⚙️ I mostly do **backend**, because I don't like frontend — but that doesn't mean I can't do it.
 - 🖥️ I run my own server hosting company: **[EgoPvP Hosting](https://egopvp-hosting.com)**
-- 🖨️ I own a **3D printing business** — from modelling to the finished print.
+- 🖨️ I own a 3D printing business: **[LH Printing](https://lhprinting.de)** — from modelling to the finished print.
 - 🔧 I love building things, automating stuff and keeping servers running 24/7.
 - 🌱 Always learning something new.
 
@@ -59,4 +60,6 @@
 
 <p align="center">
   <a href="https://egopvp-hosting.com"><b>🌐 egopvp-hosting.com</b></a>
+  &nbsp;•&nbsp;
+  <a href="https://lhprinting.de"><b>🖨️ lhprinting.de</b></a>
 </p>
